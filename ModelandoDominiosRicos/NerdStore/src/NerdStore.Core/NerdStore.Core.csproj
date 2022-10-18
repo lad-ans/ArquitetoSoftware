@@ -1,0 +1,45 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="DomainObjects\" />
+    <None Remove="Data\" />
+    <None Remove="Messages\" />
+    <None Remove="MediatR" />
+    <None Remove="Bus\" />
+    <None Remove="FluentValidation" />
+    <None Remove="Communication\Mediator\" />
+    <None Remove="Messages\CommonMessages\" />
+    <None Remove="Messages\CommonMessages\DomainEvents\" />
+    <None Remove="Messages\CommonMessages\Notifications\" />
+    <None Remove="Messages\CommonMessages\IntegrationEvents\" />
+    <None Remove="JetBrains.ReSharper.SDK" />
+    <None Remove="DomainObjects\ViewModels\" />
+    <None Remove="Extensions\" />
+    <None Remove="Rebus" />
+    <None Remove="Data\EventSourcing\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="DomainObjects\" />
+    <Folder Include="Data\" />
+    <Folder Include="Messages\" />
+    <Folder Include="Communication\" />
+    <Folder Include="Communication\Mediator\" />
+    <Folder Include="Messages\CommonMessages\" />
+    <Folder Include="Messages\CommonMessages\DomainEvents\" />
+    <Folder Include="Messages\CommonMessages\Notifications\" />
+    <Folder Include="Messages\CommonMessages\IntegrationEvents\" />
+    <Folder Include="DomainObjects\DTO\" />
+    <Folder Include="Extensions\" />
+    <Folder Include="Data\EventSourcing\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="MediatR" Version="10.0.1" />
+    <PackageReference Include="FluentValidation" Version="10.3.6" />
+  </ItemGroup>
+</Project>

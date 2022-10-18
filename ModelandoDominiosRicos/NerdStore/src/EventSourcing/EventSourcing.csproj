@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\NerdStore.Core\NerdStore.Core.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="EventStore.Client" />
+    <None Remove="Microsoft.Extensions.Configuration.FileExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="EventStore.Client" Version="21.2.1" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.FileExtensions" Version="6.0.0" />
+  </ItemGroup>
+</Project>

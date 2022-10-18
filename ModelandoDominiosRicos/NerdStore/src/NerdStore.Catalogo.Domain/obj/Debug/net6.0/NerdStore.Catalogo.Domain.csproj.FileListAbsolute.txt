@@ -1,0 +1,45 @@
+/Volumes/LaynDev/DEV/DotNetProjects/Personal/Formação Arquiteto de Software/NerdStore/src/NerdStore.Catalogo.Domain/obj/Debug/net6.0/NerdStore.Catalogo.Domain.csproj.AssemblyReference.cache
+/Volumes/LaynDev/DEV/DotNetProjects/Personal/Formação Arquiteto de Software/NerdStore/src/NerdStore.Catalogo.Domain/obj/Debug/net6.0/NerdStore.Catalogo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/LaynDev/DEV/DotNetProjects/Personal/Formação Arquiteto de Software/NerdStore/src/NerdStore.Catalogo.Domain/obj/Debug/net6.0/NerdStore.Catalogo.Domain.AssemblyInfoInputs.cache
+/Volumes/LaynDev/DEV/DotNetProjects/Personal/Formação Arquiteto de Software/NerdStore/src/NerdStore.Catalogo.Domain/obj/Debug/net6.0/NerdStore.Catalogo.Domain.AssemblyInfo.cs
+/Volumes/LaynDev/DEV/DotNetProjects/Personal/Formação Arquiteto de Software/NerdStore/src/NerdStore.Catalogo.Domain/obj/Debug/net6.0/NerdStore.Catalogo.Domain.csproj.CoreCompileInputs.cache
+/Volumes/LaynDev/DEV/DotNetProjects/Personal/Formação Arquiteto de Software/NerdStore/src/NerdStore.Catalogo.Domain/bin/Debug/net6.0/NerdStore.Catalogo.Domain.deps.json
+/Volumes/LaynDev/DEV/DotNetProjects/Personal/Formação Arquiteto de Software/NerdStore/src/NerdStore.Catalogo.Domain/bin/Debug/net6.0/NerdStore.Catalogo.Domain.dll
+/Volumes/LaynDev/DEV/DotNetProjects/Personal/Formação Arquiteto de Software/NerdStore/src/NerdStore.Catalogo.Domain/bin/Debug/net6.0/NerdStore.Catalogo.Domain.pdb
+/Volumes/LaynDev/DEV/DotNetProjects/Personal/Formação Arquiteto de Software/NerdStore/src/NerdStore.Catalogo.Domain/bin/Debug/net6.0/NerdStore.Core.dll
+/Volumes/LaynDev/DEV/DotNetProjects/Personal/Formação Arquiteto de Software/NerdStore/src/NerdStore.Catalogo.Domain/bin/Debug/net6.0/NerdStore.Core.pdb
+/Volumes/LaynDev/DEV/DotNetProjects/Personal/Formação Arquiteto de Software/NerdStore/src/NerdStore.Catalogo.Domain/obj/Debug/net6.0/NerdStore.Catalogo.Domain.csproj.CopyComplete
+/Volumes/LaynDev/DEV/DotNetProjects/Personal/Formação Arquiteto de Software/NerdStore/src/NerdStore.Catalogo.Domain/obj/Debug/net6.0/NerdStore.Catalogo.Domain.dll
+/Volumes/LaynDev/DEV/DotNetProjects/Personal/Formação Arquiteto de Software/NerdStore/src/NerdStore.Catalogo.Domain/obj/Debug/net6.0/ref/NerdStore.Catalogo.Domain.dll
+/Volumes/LaynDev/DEV/DotNetProjects/Personal/Formação Arquiteto de Software/NerdStore/src/NerdStore.Catalogo.Domain/obj/Debug/net6.0/NerdStore.Catalogo.Domain.pdb
+/Volumes/LaynDev/DEV/DotNetProjects/Personal/Formação Arquiteto de Software/NerdStore/src/NerdStore.Catalogo.Domain/obj/Debug/net6.0/refint/NerdStore.Catalogo.Domain.dll
+/Volumes/LaynDev/DEV/DotNetProjects/Personal/ArquitetoSoftware/NerdStore/src/NerdStore.Catalogo.Domain/bin/Debug/net6.0/NerdStore.Catalogo.Domain.deps.json
+/Volumes/LaynDev/DEV/DotNetProjects/Personal/ArquitetoSoftware/NerdStore/src/NerdStore.Catalogo.Domain/bin/Debug/net6.0/NerdStore.Catalogo.Domain.dll
+/Volumes/LaynDev/DEV/DotNetProjects/Personal/ArquitetoSoftware/NerdStore/src/NerdStore.Catalogo.Domain/bin/Debug/net6.0/NerdStore.Catalogo.Domain.pdb
+/Volumes/LaynDev/DEV/DotNetProjects/Personal/ArquitetoSoftware/NerdStore/src/NerdStore.Catalogo.Domain/bin/Debug/net6.0/NerdStore.Core.dll
+/Volumes/LaynDev/DEV/DotNetProjects/Personal/ArquitetoSoftware/NerdStore/src/NerdStore.Catalogo.Domain/bin/Debug/net6.0/NerdStore.Core.pdb
+/Volumes/LaynDev/DEV/DotNetProjects/Personal/ArquitetoSoftware/NerdStore/src/NerdStore.Catalogo.Domain/obj/Debug/net6.0/NerdStore.Catalogo.Domain.csproj.AssemblyReference.cache
+/Volumes/LaynDev/DEV/DotNetProjects/Personal/ArquitetoSoftware/NerdStore/src/NerdStore.Catalogo.Domain/obj/Debug/net6.0/NerdStore.Catalogo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/LaynDev/DEV/DotNetProjects/Personal/ArquitetoSoftware/NerdStore/src/NerdStore.Catalogo.Domain/obj/Debug/net6.0/NerdStore.Catalogo.Domain.AssemblyInfoInputs.cache
+/Volumes/LaynDev/DEV/DotNetProjects/Personal/ArquitetoSoftware/NerdStore/src/NerdStore.Catalogo.Domain/obj/Debug/net6.0/NerdStore.Catalogo.Domain.AssemblyInfo.cs
+/Volumes/LaynDev/DEV/DotNetProjects/Personal/ArquitetoSoftware/NerdStore/src/NerdStore.Catalogo.Domain/obj/Debug/net6.0/NerdStore.Catalogo.Domain.csproj.CoreCompileInputs.cache
+/Volumes/LaynDev/DEV/DotNetProjects/Personal/ArquitetoSoftware/NerdStore/src/NerdStore.Catalogo.Domain/obj/Debug/net6.0/NerdStore.Catalogo.Domain.csproj.CopyComplete
+/Volumes/LaynDev/DEV/DotNetProjects/Personal/ArquitetoSoftware/NerdStore/src/NerdStore.Catalogo.Domain/obj/Debug/net6.0/NerdStore.Catalogo.Domain.dll
+/Volumes/LaynDev/DEV/DotNetProjects/Personal/ArquitetoSoftware/NerdStore/src/NerdStore.Catalogo.Domain/obj/Debug/net6.0/refint/NerdStore.Catalogo.Domain.dll
+/Volumes/LaynDev/DEV/DotNetProjects/Personal/ArquitetoSoftware/NerdStore/src/NerdStore.Catalogo.Domain/obj/Debug/net6.0/NerdStore.Catalogo.Domain.pdb
+/Volumes/LaynDev/DEV/DotNetProjects/Personal/ArquitetoSoftware/NerdStore/src/NerdStore.Catalogo.Domain/obj/Debug/net6.0/ref/NerdStore.Catalogo.Domain.dll
+E:\DEV\Lessons\.NET\dev.io\ArquitetoSoftware\NerdStore\src\NerdStore.Catalogo.Domain\bin\Debug\net6.0\NerdStore.Catalogo.Domain.deps.json
+E:\DEV\Lessons\.NET\dev.io\ArquitetoSoftware\NerdStore\src\NerdStore.Catalogo.Domain\bin\Debug\net6.0\NerdStore.Catalogo.Domain.dll
+E:\DEV\Lessons\.NET\dev.io\ArquitetoSoftware\NerdStore\src\NerdStore.Catalogo.Domain\bin\Debug\net6.0\NerdStore.Catalogo.Domain.pdb
+E:\DEV\Lessons\.NET\dev.io\ArquitetoSoftware\NerdStore\src\NerdStore.Catalogo.Domain\bin\Debug\net6.0\NerdStore.Core.dll
+E:\DEV\Lessons\.NET\dev.io\ArquitetoSoftware\NerdStore\src\NerdStore.Catalogo.Domain\bin\Debug\net6.0\NerdStore.Core.pdb
+E:\DEV\Lessons\.NET\dev.io\ArquitetoSoftware\NerdStore\src\NerdStore.Catalogo.Domain\obj\Debug\net6.0\NerdStore.Catalogo.Domain.csproj.AssemblyReference.cache
+E:\DEV\Lessons\.NET\dev.io\ArquitetoSoftware\NerdStore\src\NerdStore.Catalogo.Domain\obj\Debug\net6.0\NerdStore.Catalogo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\DEV\Lessons\.NET\dev.io\ArquitetoSoftware\NerdStore\src\NerdStore.Catalogo.Domain\obj\Debug\net6.0\NerdStore.Catalogo.Domain.AssemblyInfoInputs.cache
+E:\DEV\Lessons\.NET\dev.io\ArquitetoSoftware\NerdStore\src\NerdStore.Catalogo.Domain\obj\Debug\net6.0\NerdStore.Catalogo.Domain.AssemblyInfo.cs
+E:\DEV\Lessons\.NET\dev.io\ArquitetoSoftware\NerdStore\src\NerdStore.Catalogo.Domain\obj\Debug\net6.0\NerdStore.Catalogo.Domain.csproj.CoreCompileInputs.cache
+E:\DEV\Lessons\.NET\dev.io\ArquitetoSoftware\NerdStore\src\NerdStore.Catalogo.Domain\obj\Debug\net6.0\NerdStore.Catalogo.Domain.csproj.CopyComplete
+E:\DEV\Lessons\.NET\dev.io\ArquitetoSoftware\NerdStore\src\NerdStore.Catalogo.Domain\obj\Debug\net6.0\NerdStore.Catalogo.Domain.dll
+E:\DEV\Lessons\.NET\dev.io\ArquitetoSoftware\NerdStore\src\NerdStore.Catalogo.Domain\obj\Debug\net6.0\refint\NerdStore.Catalogo.Domain.dll
+E:\DEV\Lessons\.NET\dev.io\ArquitetoSoftware\NerdStore\src\NerdStore.Catalogo.Domain\obj\Debug\net6.0\NerdStore.Catalogo.Domain.pdb
+E:\DEV\Lessons\.NET\dev.io\ArquitetoSoftware\NerdStore\src\NerdStore.Catalogo.Domain\obj\Debug\net6.0\ref\NerdStore.Catalogo.Domain.dll

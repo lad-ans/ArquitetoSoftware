@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = NerdStore.Vendas.Domain.Tests
+build_property.ProjectDir = /Volumes/LaynDev/DEV/DotNetProjects/Personal/ArquitetoSoftware/TestesDeSoftware/TestesDeSoftware/TDD/tests/NerdStore.Vendas.Domain.Tests/

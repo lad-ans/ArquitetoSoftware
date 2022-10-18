@@ -1,0 +1,36 @@
+/Volumes/LaynDev/DEV/DotNetProjects/Personal/Formação Arquiteto de Software/NerdStore/src/NerdStore.Core/bin/Debug/net6.0/NerdStore.Core.deps.json
+/Volumes/LaynDev/DEV/DotNetProjects/Personal/Formação Arquiteto de Software/NerdStore/src/NerdStore.Core/bin/Debug/net6.0/NerdStore.Core.dll
+/Volumes/LaynDev/DEV/DotNetProjects/Personal/Formação Arquiteto de Software/NerdStore/src/NerdStore.Core/bin/Debug/net6.0/NerdStore.Core.pdb
+/Volumes/LaynDev/DEV/DotNetProjects/Personal/Formação Arquiteto de Software/NerdStore/src/NerdStore.Core/obj/Debug/net6.0/NerdStore.Core.csproj.AssemblyReference.cache
+/Volumes/LaynDev/DEV/DotNetProjects/Personal/Formação Arquiteto de Software/NerdStore/src/NerdStore.Core/obj/Debug/net6.0/NerdStore.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/LaynDev/DEV/DotNetProjects/Personal/Formação Arquiteto de Software/NerdStore/src/NerdStore.Core/obj/Debug/net6.0/NerdStore.Core.AssemblyInfoInputs.cache
+/Volumes/LaynDev/DEV/DotNetProjects/Personal/Formação Arquiteto de Software/NerdStore/src/NerdStore.Core/obj/Debug/net6.0/NerdStore.Core.AssemblyInfo.cs
+/Volumes/LaynDev/DEV/DotNetProjects/Personal/Formação Arquiteto de Software/NerdStore/src/NerdStore.Core/obj/Debug/net6.0/NerdStore.Core.csproj.CoreCompileInputs.cache
+/Volumes/LaynDev/DEV/DotNetProjects/Personal/Formação Arquiteto de Software/NerdStore/src/NerdStore.Core/obj/Debug/net6.0/NerdStore.Core.dll
+/Volumes/LaynDev/DEV/DotNetProjects/Personal/Formação Arquiteto de Software/NerdStore/src/NerdStore.Core/obj/Debug/net6.0/ref/NerdStore.Core.dll
+/Volumes/LaynDev/DEV/DotNetProjects/Personal/Formação Arquiteto de Software/NerdStore/src/NerdStore.Core/obj/Debug/net6.0/NerdStore.Core.pdb
+/Volumes/LaynDev/DEV/DotNetProjects/Personal/Formação Arquiteto de Software/NerdStore/src/NerdStore.Core/obj/Debug/net6.0/refint/NerdStore.Core.dll
+/Volumes/LaynDev/DEV/DotNetProjects/Personal/ArquitetoSoftware/NerdStore/src/NerdStore.Core/bin/Debug/net6.0/NerdStore.Core.deps.json
+/Volumes/LaynDev/DEV/DotNetProjects/Personal/ArquitetoSoftware/NerdStore/src/NerdStore.Core/bin/Debug/net6.0/NerdStore.Core.dll
+/Volumes/LaynDev/DEV/DotNetProjects/Personal/ArquitetoSoftware/NerdStore/src/NerdStore.Core/bin/Debug/net6.0/NerdStore.Core.pdb
+/Volumes/LaynDev/DEV/DotNetProjects/Personal/ArquitetoSoftware/NerdStore/src/NerdStore.Core/obj/Debug/net6.0/NerdStore.Core.csproj.AssemblyReference.cache
+/Volumes/LaynDev/DEV/DotNetProjects/Personal/ArquitetoSoftware/NerdStore/src/NerdStore.Core/obj/Debug/net6.0/NerdStore.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/LaynDev/DEV/DotNetProjects/Personal/ArquitetoSoftware/NerdStore/src/NerdStore.Core/obj/Debug/net6.0/NerdStore.Core.AssemblyInfoInputs.cache
+/Volumes/LaynDev/DEV/DotNetProjects/Personal/ArquitetoSoftware/NerdStore/src/NerdStore.Core/obj/Debug/net6.0/NerdStore.Core.AssemblyInfo.cs
+/Volumes/LaynDev/DEV/DotNetProjects/Personal/ArquitetoSoftware/NerdStore/src/NerdStore.Core/obj/Debug/net6.0/NerdStore.Core.csproj.CoreCompileInputs.cache
+/Volumes/LaynDev/DEV/DotNetProjects/Personal/ArquitetoSoftware/NerdStore/src/NerdStore.Core/obj/Debug/net6.0/NerdStore.Core.dll
+/Volumes/LaynDev/DEV/DotNetProjects/Personal/ArquitetoSoftware/NerdStore/src/NerdStore.Core/obj/Debug/net6.0/refint/NerdStore.Core.dll
+/Volumes/LaynDev/DEV/DotNetProjects/Personal/ArquitetoSoftware/NerdStore/src/NerdStore.Core/obj/Debug/net6.0/NerdStore.Core.pdb
+/Volumes/LaynDev/DEV/DotNetProjects/Personal/ArquitetoSoftware/NerdStore/src/NerdStore.Core/obj/Debug/net6.0/ref/NerdStore.Core.dll
+E:\DEV\Lessons\.NET\dev.io\ArquitetoSoftware\NerdStore\src\NerdStore.Core\bin\Debug\net6.0\NerdStore.Core.deps.json
+E:\DEV\Lessons\.NET\dev.io\ArquitetoSoftware\NerdStore\src\NerdStore.Core\bin\Debug\net6.0\NerdStore.Core.dll
+E:\DEV\Lessons\.NET\dev.io\ArquitetoSoftware\NerdStore\src\NerdStore.Core\bin\Debug\net6.0\NerdStore.Core.pdb
+E:\DEV\Lessons\.NET\dev.io\ArquitetoSoftware\NerdStore\src\NerdStore.Core\obj\Debug\net6.0\NerdStore.Core.csproj.AssemblyReference.cache
+E:\DEV\Lessons\.NET\dev.io\ArquitetoSoftware\NerdStore\src\NerdStore.Core\obj\Debug\net6.0\NerdStore.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\DEV\Lessons\.NET\dev.io\ArquitetoSoftware\NerdStore\src\NerdStore.Core\obj\Debug\net6.0\NerdStore.Core.AssemblyInfoInputs.cache
+E:\DEV\Lessons\.NET\dev.io\ArquitetoSoftware\NerdStore\src\NerdStore.Core\obj\Debug\net6.0\NerdStore.Core.AssemblyInfo.cs
+E:\DEV\Lessons\.NET\dev.io\ArquitetoSoftware\NerdStore\src\NerdStore.Core\obj\Debug\net6.0\NerdStore.Core.csproj.CoreCompileInputs.cache
+E:\DEV\Lessons\.NET\dev.io\ArquitetoSoftware\NerdStore\src\NerdStore.Core\obj\Debug\net6.0\NerdStore.Core.dll
+E:\DEV\Lessons\.NET\dev.io\ArquitetoSoftware\NerdStore\src\NerdStore.Core\obj\Debug\net6.0\refint\NerdStore.Core.dll
+E:\DEV\Lessons\.NET\dev.io\ArquitetoSoftware\NerdStore\src\NerdStore.Core\obj\Debug\net6.0\NerdStore.Core.pdb
+E:\DEV\Lessons\.NET\dev.io\ArquitetoSoftware\NerdStore\src\NerdStore.Core\obj\Debug\net6.0\ref\NerdStore.Core.dll
